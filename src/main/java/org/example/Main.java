@@ -7,5 +7,7 @@ public class Main {
         Testarefisier1 t1 = new Testarefisier1("testarea reusita");
 
         System.out.println(t1.toString());
+        
+        //test
     }
 }
